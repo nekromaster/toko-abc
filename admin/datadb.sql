@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `sourcecodester_hoteldb`
+-- Database: `sourcecodester_datadb`
 --
 
 -- --------------------------------------------------------
@@ -54,7 +54,7 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id`, `usname`, `pass`) VALUES
-(1, 'janobe', 'janobe');
+(1, 'ravanelly', 'ravanelly');
 
 -- --------------------------------------------------------
 
